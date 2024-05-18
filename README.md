@@ -6,6 +6,7 @@ This repository is dedicated to managing my studies of SAP Business One (SAP B1)
 - [Introduction](#introduction)
 - [Objectives](#objectives)
 - [Setup and Installation](#setup-and-installation)
+- [SAP on Azure](#sap-on-azure)
 - [Usage](#usage)
 - [Communication with SAP B1](#communication-with-sap-b1)
 - [Resources](#resources)
@@ -34,7 +35,10 @@ To get started with this project, follow these steps:
     # Install dependencies here
     ```
 3. Configure the connection to your SAP B1 instance. Update the connection settings in the `config` file.
-
+## SAP on Azure
+  ```bash
+    Link to Download the Microsoft Ebook: https://info.microsoft.com/ww-landing-sap-on-azure-implementation-guide.html#:~:text=Download%20the%20free%20e-book%20to%3A%201%20Learn%20how,advanced%20analytics%20and%20IoT%20with%20SAP%20on%20Azure.
+    ```
 ## Usage
 This section will include instructions on how to use the scripts and tools provided in this repository. It will be updated as the project evolves.
 
