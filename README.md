@@ -1,5 +1,3 @@
-...# SAP
-Dedicated repository for SAP B1 studies created by Neemias Borges and solely dedicated to recording the progress of studies.
 # SAP B1 Study Management
 
 This repository is dedicated to managing my studies of SAP Business One (SAP B1). It includes resources, notes, and code snippets to facilitate learning and application of SAP B1 functionalities.
